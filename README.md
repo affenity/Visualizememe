@@ -3,7 +3,6 @@
 
 ### Hi, I'm Martin, also known as [Visualizememe / 1TheNoobestNoob][website]
 
-<hr>
 
 ### Get in touch with me:
 
@@ -12,9 +11,6 @@
 [<img align="left" alt="Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <a href="https://devforum.roblox.com/u/1TheNoobestNoob/summary"><img align="left" alt="DevForum" width="32px" src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/6/b/1/6b16738af0d9f6edcf80e09e6bf38a4c9e7cfb83.png" /></a>
-
-<br />
-<hr />
 
 ### Languages and Tools
 <p>

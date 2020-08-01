@@ -40,8 +40,8 @@ I'm 17 years old and from Norway,thus speaking Norwegian and English fluently, a
 
 ---
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=visualizememe&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visualizememe&theme=cobalt)
+![My github stats](https://github-readme-stats.vercel.app/api?username=visualizememe&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visualizememe)
 
 [website]: https://devforum.roblox.com/u/1TheNoobestNoob
 [website]: https://rbx.no/

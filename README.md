@@ -2,6 +2,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=scripterscf&repo=node-cf-router)](https://github.com/scripterscf/node-cf-router)
 
 ### Hi, I'm Martin, also known as [Visualizememe / 1TheNoobestNoob][website]
+I'm a self-taught developer, and I've worked on games, websites, and other various services for years.
+My main tech stack includes WebStorm / VSCode, Git, AWS / GCP / Azure / IBM, TypeScript, Cloudflare, and many more.
+
+I'm 17 years old and from Norway,thus speaking Norwegian and English fluently, along with a slight grasp of Spanish and German.<br />I guess school is good for *something*.
+
 
 <br />
 

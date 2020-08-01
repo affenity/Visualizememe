@@ -7,9 +7,6 @@ My main tech stack includes WebStorm / VSCode, Git, AWS / GCP / Azure / IBM, Typ
 
 I'm 17 years old and from Norway,thus speaking Norwegian and English fluently, along with a slight grasp of Spanish and German.<br />I guess school is good for *something*.
 
-
-<br />
-
 ### Get in touch with me:
 
 <a href="mailto:m@xnx.no"><img align="left" alt="rbx.no" width="26px" src="https://simpleicons.org/icons/gmail.svg" /></a>

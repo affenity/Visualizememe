@@ -14,6 +14,7 @@
 <a href="https://devforum.roblox.com/u/1TheNoobestNoob/summary"><img align="left" alt="DevForum" width="32px" src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/6/b/1/6b16738af0d9f6edcf80e09e6bf38a4c9e7cfb83.png" /></a>
 
 <br />
+<hr />
 
 ### Languages and Tools
 <p>

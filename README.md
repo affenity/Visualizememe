@@ -12,6 +12,7 @@
 <a href="mailto:m@xnx.no"><img align="left" alt="rbx.no" width="32px" src="https://simpleicons.org/icons/gmail.svg" /></a>
 
 <br />
+
 ### Languages and Tools
 <p>
   These are just some of the tools I'm using

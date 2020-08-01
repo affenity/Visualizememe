@@ -3,6 +3,8 @@
 
 ### Hi, I'm Martin, also known as [Visualizememe / 1TheNoobestNoob][website]
 
+<br />
+
 ### Get in touch with me:
 
 <a href="mailto:m@xnx.no"><img align="left" alt="rbx.no" width="26px" src="https://simpleicons.org/icons/gmail.svg" /></a>

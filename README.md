@@ -3,17 +3,14 @@
 
 ### Hi, I'm Martin, also known as [Visualizememe / 1TheNoobestNoob][website]
 
-<br />
-
 ### Get in touch with me:
 
-<a href="mailto:m@xnx.no"><img align="left" alt="rbx.no" width="32px" src="https://simpleicons.org/icons/gmail.svg" /></a>
 [<img align="left" alt="rbx.no" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <a href="https://devforum.roblox.com/u/1TheNoobestNoob/summary"><img align="left" alt="DevForum" width="32px" src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/6/b/1/6b16738af0d9f6edcf80e09e6bf38a4c9e7cfb83.png" /></a>
+<a href="mailto:m@xnx.no"><img align="left" alt="rbx.no" width="32px" src="https://simpleicons.org/icons/gmail.svg" /></a>
 
-<br />
 ### Languages and Tools
 <p>
   These are just some of the tools I'm using

@@ -3,11 +3,15 @@
 
 ### Hi, I'm Martin, also known as [Visualizememe / 1TheNoobestNoob][website]
 
-### Connect with me:
+<hr>
 
-[<img align="left" alt="rbx.no" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Get in touch with me:
+
+<a href="mailto:m@xnx.no"><img align="left" alt="rbx.no" width="32px" src="https://simpleicons.org/icons/gmail.svg" /></a>
+[<img align="left" alt="rbx.no" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://devforum.roblox.com/u/1TheNoobestNoob/summary"><img align="left" alt="DevForum" width="32px" src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/6/b/1/6b16738af0d9f6edcf80e09e6bf38a4c9e7cfb83.png" /></a>
 
 <br />
 
@@ -37,6 +41,7 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=visualizememe&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visualizememe&theme=cobalt)
 
+[website]: https://devforum.roblox.com/u/1TheNoobestNoob
 [website]: https://rbx.no/
 [twitter]: https://twitter.com/1Noobest
 [linkedin]: https://www.linkedin.com/in/martin-kriken-785b66199/

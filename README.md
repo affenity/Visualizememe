@@ -1,5 +1,5 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=visualizememe&repo=bloxy)](https://github.com/visualizememe/bloxy/tree/pre-dev)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=scripterscf&repo=node-cf-router)](https://github.com/scripterscf/node-cf-router)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=visualizememe&repo=cloudflare-router)](https://github.com/visualizememe/cloudflare-router)
 
 ### Hi, I'm Martin, also known as [Visualizememe / 1TheNoobestNoob][website]
 I'm a self-taught developer, and I've worked on games, websites, and other various services for years.

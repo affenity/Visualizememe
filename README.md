@@ -1,7 +1,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=visualizememe&repo=bloxy)](https://github.com/visualizememe/bloxy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=visualizememe&repo=cloudflare-router)](https://github.com/visualizememe/cloudflare-router)
 
-### Hi, I'm Martin, also known as [Visualizememe / 1TheNoobestNoob][website]
+### Hi, I'm Martin, also known as [Visualizememe][website]
 I'm a self-taught developer, and I've worked on games, websites, and other various services for years.
 My main tech stack includes WebStorm / VSCode, Git, AWS / GCP / Azure / IBM, TypeScript, Cloudflare, and many more.
 

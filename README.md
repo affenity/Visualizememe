@@ -43,7 +43,7 @@ I'm 18 years old and I'm from Norway,thus speaking Norwegian and English fluentl
 ![My github stats](https://github-readme-stats.vercel.app/api?username=visualizememe&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visualizememe)
 
-[website]: https://devforum.roblox.com/u/1TheNoobestNoob
+[website]: https://devforum.roblox.com/u/Visualizememe
 [website]: https://rbx.no/
-[twitter]: https://twitter.com/1Noobest
+[twitter]: https://twitter.com/Visualizememe
 [linkedin]: https://www.linkedin.com/in/martin-kriken-785b66199/
